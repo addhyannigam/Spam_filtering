@@ -16,10 +16,22 @@ The process involved:
 
 3. Data Preprocessing ⚙️
 
-  Tokenization, stopwords removal, stemming/lemmatization, and vectorization (TF-IDF / CountVectorizer).
+   Tokenization, stopwords removal, stemming/lemmatization, and vectorization (TF-IDF / CountVectorizer).
 
 4. Model Building 🤖
 
-  Training machine learning models (Naive Bayes, SVM, etc.) for spam classification.
+   Training machine learning models (Naive Bayes, SVM, etc.) for spam classification.
 
    Evaluating model performance using metrics like accuracy, precision, confusion matrix.
+
+🛠️ Technologies Used
+
+1. Python 🐍
+
+2. Pandas
+
+3. NumPy
+
+4. Matplotlib & Seaborn (for EDA)
+
+5. Scikit-learn (for preprocessing and model building)
